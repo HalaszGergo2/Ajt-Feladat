@@ -15,3 +15,6 @@
 
   A programnak meg kell számolnia, hogy hányszor nyert a felhasználó csere segítségével, és hányszor nyert csere nélkül.
   Ezt spinnerek segítségével fogja számolni, mindkettőre külön-külön van egy.
+
+  A felhasználó mindig indíthat egy új kört miután a jelenlegivel végzett, azonban a nyert cserés vagy nem cserés körök számlálása az ne nullázódjon.
+  Amikor a felhasználó az abbahagyom gombra nyom, akkor legyen vége a játéknak és összesítse neki a program, hányat nyert cserével és anélkül.
